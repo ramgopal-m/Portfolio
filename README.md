@@ -28,12 +28,15 @@ The main goal of the project is to provide students with a modern, interactive, 
 ## 📁 Folder Structure
 
 /portfolio
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
-├── /images
-│ └── profile.jpg, project1.png, ...
+
 └── README.md
 
 markdown
